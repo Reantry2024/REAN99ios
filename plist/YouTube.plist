@@ -13,17 +13,23 @@
 <key>url</key>
 <string>https://archive.org/download/you-tube-fix-19.49.7-1738628443/YouTube%20-%20fix_19.49.7_1738628443.ipa</string>
 </dict>
+<dict>
+<key>kind</key>
+<string>full-size-image</string>
+<key>url</key>
+<string>https://kasar.store/Kasaricon.png</string>
+</dict>
 </array>
 <key>metadata</key>
 <dict>
 <key>bundle-identifier</key>
-<string>com.youtube</string>
+<string>com.tencent.ig2</string>
 <key>bundle-version</key>
-<string>16.31.4</string>
+<string>2.4.0</string>
 <key>kind</key>
 <string>software</string>
 <key>title</key>
-<string>😆ម៉េចហើយជីវិត😁</string>
+<string>Follow telegram@kasarstore</string>
 </dict>
 </dict>
 </array>
