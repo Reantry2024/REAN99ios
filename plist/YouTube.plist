@@ -23,9 +23,9 @@
 <key>metadata</key>
 <dict>
 <key>bundle-identifier</key>
-<string>com.tencent.ig2</string>
+<string>com.google.ios.youtube</string>
 <key>bundle-version</key>
-<string>2.4.0</string>
+<string>19.49.7</string>
 <key>kind</key>
 <string>software</string>
 <key>title</key>
