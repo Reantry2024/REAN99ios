@@ -17,25 +17,25 @@
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>https://kasar.store/Kasaricon.png</string>
+					<string>Images/TikTok .PNG</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>https://kasar.store/Kasaricon.png</string>
+					<string>Images/TikTok .PNG</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.Kasar.Cercube</string>
+				<string>Tiktok.vip</string>
 				<key>bundle-version</key>
 				<string>1.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>Cercube</string>
+				<string>😆ម៉េចហើយជីវិត😁</string>
 			</dict>
 		</dict>
 	</array>
